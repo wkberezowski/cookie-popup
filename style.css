@@ -17,6 +17,16 @@
   height: 10rem;
   border-radius: 1.2rem;
   padding: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text {
+  width: 70%;
+}
+
+.cookie {
+  transform: scale(0.6);
 }
 
 .cookie-title {
@@ -27,6 +37,7 @@
 .cookie-subtitle {
   font-weight: bold;
   font-size: 0.7rem;
+  padding: 0.5rem 0rem;
 }
 
 button {
